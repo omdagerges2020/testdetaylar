@@ -15,7 +15,7 @@ import Link from "next/link";
 import HomeMen from "./components/HomeMen";
 import SliderHome from "./components/homeComponents/SliderHome";
 
-const page = () => {
+const Page = () => {
   const searchParams = useSearchParams();
   const gender = searchParams.get("gender");
 
@@ -77,4 +77,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
