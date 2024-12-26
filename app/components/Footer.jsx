@@ -273,7 +273,7 @@ const Footer = () => {
           </MenuList>
         </Menu>
         <div className="font-thin tracking-widest text-sm">
-          <p>&copy; THAHAB KW</p>
+          {/* <p>&copy; THAHAB KW</p> */}
         </div>
       </div>
     </footer>
