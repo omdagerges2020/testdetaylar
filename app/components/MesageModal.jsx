@@ -20,7 +20,7 @@ const ChatModal = () => {
 
   return (
     <div className="relative">
-      {/* أيقونة الرسائل */}
+      {/* &Atilde;&sup1;يقونة الرسائل */}
       {!isChatOpen && (
         <button
           onClick={toggleChat}
