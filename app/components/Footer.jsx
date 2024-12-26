@@ -38,8 +38,8 @@ const Footer = () => {
             <ul className="flex flex-col gap-3">
               <Typography as="li" className="font-normal">
                 <p className="inline-block py-1 pr-2 transition-transform hover:scale-105 text-[#5C5C61]">
-                  The most coveted drops of the world's best brands and
-                  boutiques.
+                  {/* The most coveted drops of the world's best brands and
+                  boutiques. */}
                 </p>
               </Typography>
               <a href="https://www.instagram.com/thahabworld/" target="_blank">
